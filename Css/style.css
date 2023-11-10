@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+   background: linear-gradient(65deg, rgb(255, 136, 0), rgb(74, 207, 185) );
+    text-align: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+div h1{
+    font-size: 100px;
+    color: rgb(207, 0, 0)
+}
+div button{
+    border-radius:15px;
+    margin-top: 50px;
+    width:160px;
+    height: 100px;
+    font-size: 35px;
+    color: rgb(0, 70, 184);
+    border: 5px solid rgb(128, 128, 128);
+    font-weight: 700;
+   
+    
+}
